@@ -146,7 +146,7 @@ git clone https://github.com/Zunaira-Noor123/Online-Cake-Bakery-Management.git
 
 ### Admin Dashboard
 
-![Admin Dashboard](Screenshots\Admin%20Dashboard.png)
+![Admin Dashboard](Screenshots/Admin%20Dashboard.PNG)
 
 ---
 
