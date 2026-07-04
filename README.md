@@ -134,7 +134,7 @@ git clone https://github.com/Zunaira-Noor123/Online-Cake-Bakery-Management.git
 
 ### Home Page
 
-![Home Page] Screenshots\Homepage.png
+![HomePage] Screenshots\Homepage.png
 
 ---
 
