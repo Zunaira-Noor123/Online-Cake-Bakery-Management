@@ -154,6 +154,9 @@ git clone https://github.com/Zunaira-Noor123/Online-Cake-Bakery-Management.git
 
 ---
 
+## 📸 More Screenshots
+
+For additional screenshots of the application, please visit the **[Screenshots](./screenshots)** folder.
 
 # 📈 Learning Outcomes
 
