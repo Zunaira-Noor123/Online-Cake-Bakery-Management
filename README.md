@@ -146,13 +146,13 @@ git clone https://github.com/Zunaira-Noor123/Online-Cake-Bakery-Management.git
 
 ### Admin Dashboard
 
-![Admin Dashboard](Screenshots\Admin Dashboard.png)
+![Admin Dashboard](Screenshots\Admin%20Dashboard.png)
 
 ---
 
 ### Delivery Dashboard
 
-![Delivery Dashboard](Screenshots\Delivery Person Dashboard.png)
+![Delivery Dashboard](Screenshots\Delivery%20Person%20Dashboard.png)
 
 ---
 
