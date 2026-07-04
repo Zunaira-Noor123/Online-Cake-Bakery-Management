@@ -140,7 +140,7 @@ git clone https://github.com/Zunaira-Noor123/Online-Cake-Bakery-Management.git
 
 ### Cake Details
 
-![Cake Details](Screenshots\Cakedetails.png)
+![Cake Details](Screenshots/Cakedetails.png)
 
 ---
 
